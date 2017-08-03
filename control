@@ -1,0 +1,9 @@
+Package: com.artikus.minho
+Name: Minho
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A whole new powerdown menu.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
